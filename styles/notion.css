@@ -203,6 +203,13 @@
 
 .medium-zoom-image {
   border-radius: 0;
+  display: block;
+  object-fit: cover;
+  border-radius: 0px;
+  width: 100%;
+  height: 220px;
+  opacity: 1;
+  object-position: center 70%;
 }
 
 .medium-zoom-image--opened {
